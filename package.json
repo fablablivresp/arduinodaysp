@@ -1,0 +1,15 @@
+{
+  "name": "arduinodaysp",
+  "version": "1.0.0",
+  "description": ":pushpin: Arduino Day São Paulo Website",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/el-cardu/arduinodaysp.git"
+  },
+  "author": "Carlos EA. Batista <el-cardu>",
+  "license": "AGPL-3",
+  "bugs": {
+    "url": "https://github.com/el-cardu/arduinodaysp/issues"
+  },
+  "homepage": "https://github.com/el-cardu/arduinodaysp#readme"
+}
